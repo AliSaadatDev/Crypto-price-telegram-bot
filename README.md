@@ -55,7 +55,7 @@ Fetches chart info (including image URL):
 ```{=html}
 <!-- -->
 ```
-    pip install pyrogram requests python-dotenv
+    pip install -U Kurigram requests python-dotenv
 
 Optional (faster Pyrogram):
 
