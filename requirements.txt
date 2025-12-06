@@ -1,4 +1,4 @@
-pyrogram
+Kurigram
 requests
 python-dotenv
 tgcrypto
